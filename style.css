@@ -1,0 +1,70 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+}
+
+header {
+    padding: 30px;
+}
+
+.btn.btn-dark {
+    width: 150px;
+}
+
+
+/* ADS */
+
+.ads .row {
+    padding: 0;
+    width: 100%;
+    height: 650px;
+    background-image: url('images/ads.png');
+}
+
+.ads .container-fluid {
+    padding: 0;
+}
+
+.ads .text-ads {
+    padding: 5%;
+    margin-top: 25%;
+}
+
+
+/* SERVICE */
+
+.sv-yl {
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+}
+
+.sv-gr {
+    background-color: lightgreen;
+    border-radius: 10px;
+}
+
+.sv-rd {
+    background-color: lightcoral;
+    border-radius: 10px;
+}
+
+.service {
+    padding: 0%;
+}
+
+.service .row {
+    padding: 10%;
+}
+
+.sv-text {
+    padding: 10%;
+}
+
+.sv-text p {
+    font-size: 15px;
+}
+
+.service .btn {
+    width: 100%;
+    background-color: white;
+}
